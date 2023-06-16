@@ -7,7 +7,7 @@ Front End Web Developer
 A Front-End Web Developer currently enrolled in the BCIT Front End Web Development program, a rigorous six-month intensive program designed to equip me with comprehensive knowledge and expertise in developing functional, fully responsive, and visually captivating websites with a modern flair. Recognized for my ability to write clean code and approach each project with a strong passion for continuous learning and personal growth.
 
 * 🌍  I'm based in Greater Vancouver Metropolitan Area
-* ✉️  You can contact me at [Tommy.tuannguyen@outlook.com](mailto:Tommy.tuannguyen@outlook.com)
+* ✉️  You can contact me at [Tommy.tuannguyen@outlook.com](mailto:tommy.tuannguyen@outlook.com)
 * ⚡  When I'm not busy crafting stunning websites as a Front-End Web Developer, you'll find me spiking volleyballs and scoring goals on the soccer fields. I'm a total sports fanatic, always up for some athletic fun. But hey, there's more to me than just coding and sports. I proudly wear the title of "dog dad" and take on the noble duty of being a social media manager for my furry buddy. Yup, I've got the skills to make even the most camera-shy pups shine on Instagram! @solojojochickenbubba
 
 ### Skills
