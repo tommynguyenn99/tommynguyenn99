@@ -8,7 +8,7 @@ A Front-End Web Developer currently enrolled in the BCIT Front End Web Developme
 
 * 🌍  I'm based in Greater Vancouver Metropolitan Area
 * ✉️  You can contact me at [Tommy.tuannguyen@outlook.com](mailto:tommy.tuannguyen@outlook.com)
-* ⚡  When I'm not busy crafting stunning websites as a Front-End Web Developer, you'll find me spiking volleyballs and scoring goals on the soccer fields. I'm a total sports fanatic, always up for some athletic fun. But hey, there's more to me than just coding and sports. I proudly wear the title of "dog dad" and take on the noble duty of being a social media manager for my furry buddy. Yup, I've got the skills to make even the most camera-shy pups shine on Instagram! @solojojochickenbubba
+* ⚡  When I'm not busy coding, you'll find me playing all type of sports like volleyball or soccer. I'm a total sports fanatic, always up for some athletic fun.  I also proudly wear the title of "dog dad" and take on the noble duty of being a social media manager for my furry buddy. @solojojochickenbubba
 
 ### Skills
 
